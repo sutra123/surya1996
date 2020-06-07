@@ -8,13 +8,13 @@ public class Swapping {
 		a=a+b;
 		b=a-b;
 		a=a-b;
-		System.out.println("a :"+ a+"    b :"+ b);
+		System.out.println("a is:"+ a+"    b :"+ b);
 		
 		int c=20,d=10,t=0;
 		t=c;
 		c=d;
 		d=t;
-		System.out.println("c :"+ c+"    d :"+ d);	
+		System.out.println("c is:"+ c+"    d :"+ d);	
 		
 
 	}
